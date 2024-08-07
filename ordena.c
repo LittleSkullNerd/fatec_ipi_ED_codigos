@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
+/* Você só existe através de lembranças dos outros, o que não é lembrado nunca aconteceu. */
 void gera(int *, int);
 
 void exibe(char *, int *, int);
